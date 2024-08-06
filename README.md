@@ -1,4 +1,4 @@
-# web-programming-course
+# Chat room app
 Keskustelusovellus; 
 
 - Sovelluksessani käyttäjät voivat kirjautua sisään ja ulos sen jälkeen, kun on tehnyt uuden tilin ja rekisteröitynyt. 
