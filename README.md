@@ -1,5 +1,6 @@
 # Chat room app
-##Description 
+##Description /
+
 Sovelluksessani käyttäjät voivat kirjautua sisään ja ulos sen jälkeen, kun on tehnyt uuden tilin ja rekisteröitynyt. 
 Etusivulla käyttäjät voivat selata eri keskustelualueita ja nähdä niiden ketjujen ja viestien määrän ja viimeisimmän viestin ajankohdan.
 Käyttäjillä on mahdollisuus luoda uusia keskusteluketjuja antamalla otsikko ja aloitusviesti.
@@ -14,6 +15,6 @@ Sovellus tarjoaa käyttäjilleen helppokäyttöisen alustan keskusteluun ja yll�
 - flask and flask socketio
 - initiation of the website
 - starting the home page
-- creating a new folder "templates" for html and three files bas.html, home.html, room.html
+- creating a new folder "templates" for html and three files base.html, home.html, room.html
 - starting html in base.html
 - 
